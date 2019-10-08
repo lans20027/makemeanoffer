@@ -7,6 +7,10 @@
     <groupId>com.vydrin</groupId>
     <artifactId>maakemaanoffer</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <modules>
+        <module>mmao-front</module>
+        <module>mmao-back</module>
+    </modules>
+    <packaging>pom</packaging>
 
 </project>
