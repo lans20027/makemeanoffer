@@ -15,16 +15,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -104,8 +107,8 @@
         <option value="$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/TestController.java" />
         <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/mmao-front/frontend/src/styles.css" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html" />
         <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html" />
       </list>
     </option>
   </component>
@@ -869,15 +872,16 @@
       <workItem from="1570520395681" duration="2382000" />
       <workItem from="1570526951646" duration="888000" />
       <workItem from="1570528044075" duration="56000" />
-      <workItem from="1570530466712" duration="1270000" />
+      <workItem from="1570530466712" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11685000" />
+    <option name="totallyTimeSpent" value="12013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -974,6 +978,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1236,6 +1243,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1245,17 +1262,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
