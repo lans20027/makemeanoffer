@@ -5,9 +5,17 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import {MatButtonModule} from '@angular/material/button';
-import {MatGridListModule, MatIconModule, MatToolbarModule} from "@angular/material";
+import {
+  MatFormFieldModule,
+  MatGridListModule,
+  MatIconModule,
+  MatStepperModule,
+  MatToolbarModule
+} from "@angular/material";
 import { PageAboutComponent } from './page-about/page-about.component';
 import { FooterComponent } from './footer/footer.component';
+import {ReactiveFormsModule} from "@angular/forms";
+
 
 
 @NgModule({
@@ -23,7 +31,10 @@ import { FooterComponent } from './footer/footer.component';
     MatButtonModule,
     MatToolbarModule,
     MatIconModule,
-    MatGridListModule
+    MatGridListModule,
+    MatStepperModule,
+    ReactiveFormsModule,
+    MatFormFieldModule
   ],
   providers: [],
   bootstrap: [AppComponent]
