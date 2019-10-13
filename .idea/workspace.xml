@@ -1,98 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f11a0b2f-2cb0-469a-9bd7-98b8f918b7b0" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/mmao-front/target/" />
-    <ignored path="$PROJECT_DIR$/mmao-back/target/" />
+    <list default="true" id="f11a0b2f-2cb0-469a-9bd7-98b8f918b7b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmao-front/frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/mmao-front/frontend/src/styles.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-about.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-about.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,37 +29,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/MmaoBackApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/mmao-front/pom.xml" />
-        <option value="$PROJECT_DIR$/mmao-back/pom.xml" />
-        <option value="$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/TestController.java" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/styles.css" />
-        <option value="$PROJECT_DIR$/mmao-back/.gitignore" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.css" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.css" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/index.html" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/app-routing.module.ts" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.css" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.html" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.ts" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -149,523 +44,26 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="maakemaanoffer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="maakemaanoffer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mmao-front" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mmao-front" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/mmao-front/frontend/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/mmao-front/frontend/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/JSONStream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/abbrev/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/agent-base/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/agentkeepalive/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ansi-align/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ansicolors/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ansistyles/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/aproba/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/archy/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/are-we-there-yet/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/asap/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/asn1/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/asynckit/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/aws-sign2/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/aws4/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/bcrypt-pbkdf/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/bin-links/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/block-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/bluebird/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/boom/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/boxen/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/buffer-from/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/builtin-modules/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/builtins/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/byline/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/byte-size/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cacache/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/call-limit/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/camelcase/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/capture-stack-trace/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/caseless/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/chownr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ci-info/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cidr-regex/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cli-boxes/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cli-columns/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cli-table3/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cliui/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cliui/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cliui/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/clone/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cmd-shim/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/co/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/code-point-at/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/color-convert/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/color-name/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/colors/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/columnify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/combined-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/concat-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/config-chain/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/configstore/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/console-control-strings/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/copy-concurrently/node_modules/iferr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/copy-concurrently/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/core-util-is/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/create-error-class/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cross-spawn/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cryptiles/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/crypto-random-string/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/cyclist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/dashdash/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/dashdash/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/debug/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/debuglog/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/decamelize/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/decode-uri-component/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/deep-extend/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/defaults/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/delayed-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/delegates/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/detect-indent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/detect-newline/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/dezalgo/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/dot-prop/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/dotenv/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/duplexer3/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/duplexify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ecc-jsbn/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/editor/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/encoding/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/end-of-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/err-code/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/errno/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/es6-promise/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/es6-promisify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/execa/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/extend/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/extsprintf/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/figgy-pudding/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/find-npm-prefix/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/find-up/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/flush-write-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/forever-agent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/form-data/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/from2/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/fs-minipass/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/fs-vacuum/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/iferr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/fs-write-stream-atomic/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/fs.realpath/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/fstream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/gauge/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/gauge/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/genfun/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/gentle-fs/node_modules/iferr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/gentle-fs/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/get-caller-file/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/get-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/getpass/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/getpass/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/global-dirs/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/got/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/graceful-fs/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/har-schema/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/har-validator/node_modules/ajv/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/har-validator/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/has-flag/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/has-unicode/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/hawk/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/hoek/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/hosted-git-info/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/http-cache-semantics/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/http-proxy-agent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/http-signature/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/https-proxy-agent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/humanize-ms/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/iferr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ignore-walk/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/import-lazy/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/imurmurhash/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ini/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/init-package-json/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/invert-kv/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ip-regex/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ip/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-builtin-module/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-ci/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-cidr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-installed-globally/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-npm/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-obj/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-path-inside/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-redirect/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-retry-allowed/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/is-typedarray/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/isexe/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/isstream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/jsbn/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/json-parse-better-errors/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/json-schema/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/json-stable-stringify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/json-stringify-safe/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/jsonify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/jsonparse/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/jsprim/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/jsprim/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/latest-version/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lazy-property/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lcid/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/libcipm/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/libnpmhook/node_modules/npm-registry-fetch/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/libnpmhook/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/libnpx/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/locate-path/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lock-verify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lockfile/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._baseindexof/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._baseuniq/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._bindcallback/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._cacheindexof/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._createcache/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._createset/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._getnative/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash._root/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash.clonedeep/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash.restparam/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash.union/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash.uniq/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lodash.without/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lowercase-keys/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/lru-cache/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/make-dir/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/make-fetch-happen/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/meant/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mem/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mimic-fn/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/minipass/node_modules/yallist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/minipass/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/minizlib/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mississippi/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mkdirp/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/move-concurrently/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/mute-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/node-fetch-npm/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/node-gyp/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/node-gyp/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/node-gyp/node_modules/tar/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/node-gyp/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/normalize-package-data/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-audit-report/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-bundled/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-cache-filename/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-install-checks/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-lifecycle/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-logical-tree/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-package-arg/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-packlist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-pick-manifest/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-profile/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-client/node_modules/ssri/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-client/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/cacache/node_modules/mississippi/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/cacache/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/figgy-pudding/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/make-fetch-happen/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/pump/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/smart-buffer/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/socks-proxy-agent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/socks/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/node_modules/ssri/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-registry-fetch/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-run-path/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npm-user-validate/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/npmlog/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/number-is-nan/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/oauth-sign/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/object-assign/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/opener/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/os-homedir/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/os-locale/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/os-tmpdir/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/osenv/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/p-finally/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/p-limit/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/p-locate/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/p-try/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/package-json/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/pacote/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/parallel-transform/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/path-exists/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/path-is-inside/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/path-key/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/performance-now/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/pify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/prepend-http/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/process-nextick-args/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/promise-inflight/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/promise-retry/node_modules/retry/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/promise-retry/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/promzard/example/npm-init/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/promzard/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/proto-list/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/protoduck/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/prr/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/pseudomap/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/pump/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/pumpify/node_modules/pump/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/pumpify/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/punycode/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/qrcode-terminal/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/query-string/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/qw/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/rc/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/rc/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-cmd-shim/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-installed/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-detected/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-dev-dep/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer-dev/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-installed/test/fixtures/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-package-json/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read-package-tree/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/read/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/readdir-scoped-modules/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/registry-auth-token/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/registry-url/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/request/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/require-directory/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/require-main-filename/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/resolve-from/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/retry/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/rimraf/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/run-queue/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/safer-buffer/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/semver-diff/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/set-blocking/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sha/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/shebang-command/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/shebang-regex/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/signal-exit/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/slash/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/slide/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/smart-buffer/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sntp/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/socks-proxy-agent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/socks/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sorted-object/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/from2/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sorted-union-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sorted-union-stream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/spdx-correct/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/spdx-exceptions/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/spdx-expression-parse/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/spdx-license-ids/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sshpk/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/sshpk/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/ssri/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/stream-each/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/stream-iterate/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/stream-shift/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/strict-uri-encode/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/string-width/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/string-width/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/stringstream/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/strip-eof/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/strip-json-comments/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/tar/node_modules/yallist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/tar/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/term-size/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/text-table/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/through/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/through2/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/timed-out/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/tiny-relative-date/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/tough-cookie/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/tunnel-agent/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/tweetnacl/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/typedarray/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/uid-number/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/umask/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/unique-filename/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/unique-slug/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/unique-string/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/unpipe/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/unzip-response/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/update-notifier/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/url-parse-lax/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/util-extend/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/uuid/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/validate-npm-package-license/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/validate-npm-package-name/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/verror/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/verror/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/wcwidth/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/which-module/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/wide-align/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/wide-align/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/widest-line/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/worker-farm/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/wrap-ansi/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/wrap-ansi/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/wrappy/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/write-file-atomic/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/xdg-basedir/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/xtend/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/y18n/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/yallist/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/yargs-parser/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/yargs/node_modules/y18n/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/node_modules/yargs/package.json" />
-      <path value="$PROJECT_DIR$/mmao-front/node/node_modules/npm/package.json" />
-    </packageJsonPaths>
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1S3ya9LjZMXZaE7nAsH2HP2ymnL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="mmao-front" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="mmao-front" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="mmao-front" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="mmao-front" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="mmao-front" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maakemaanoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maakemaanoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="mmao-front" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="page-about" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/mmao-front/frontend/node_modules/typescript/lib" />
   </component>
@@ -681,51 +79,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
+  <component name="RunManager" selected="npm.Angular CLI Server (frontend)">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (frontend)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/mmao-front/frontend/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (frontend)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
     </configuration>
     <configuration name="MmaoBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mmao-back" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.vydrin.mmaoback.MmaoBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -739,11 +132,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_maakemaanoffer" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="55871" />
       </RunnerSettings>
@@ -792,12 +185,7 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method>
-        <option name="Make" enabled="false" />
-        <option name="BuildArtifacts" enabled="false">
-          <artifact name="mmao-back:war exploded" />
-        </option>
-      </method>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -811,11 +199,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_maakemaanoffer" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="55871" />
       </RunnerSettings>
@@ -864,14 +252,27 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="mmao-back:war exploded" />
         </option>
       </method>
     </configuration>
+    <configuration name="Angular CLI Server (frontend)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/mmao-front/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.Angular Application (frontend)" />
+      <item itemvalue="npm.Angular CLI Server (frontend)" />
+      <item itemvalue="Protractor.E2E Tests (frontend)" />
       <item itemvalue="Spring Boot.MmaoBackApplication" />
       <item itemvalue="Tomcat Server.Unnamed" />
     </list>
@@ -897,406 +298,31 @@
       <workItem from="1570603040124" duration="3043000" />
       <workItem from="1570609976645" duration="118000" />
       <workItem from="1570616270825" duration="1461000" />
+      <workItem from="1570806640518" duration="1995000" />
+      <workItem from="1570846484091" duration="624000" />
+      <workItem from="1570941992368" duration="14897000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20269000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.31120783" />
-      <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49946696" weight="0.3297062" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.084754795" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="TypeScript" order="9" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297062" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.3297062" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4978678" visible="true" weight="0.31120783" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
-      <window_info anchor="right" id="Bean Validation" order="4" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/MmaoBackApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/MmaoBackApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/MmaoBackApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="108" lean-forward="true" selection-start-line="3" selection-start-column="108" selection-end-line="3" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/ServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/polyfills.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/dist/frontend/index.html" />
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/test.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/MmaoBackApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/mvnw.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/HELP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-back/src/main/java/com/vydrin/mmaoback/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/footer/footer.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mmao-front/frontend/src/app/page-about/page-about.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
