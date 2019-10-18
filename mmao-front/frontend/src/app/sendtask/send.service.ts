@@ -7,6 +7,7 @@ export class SendService {
 
   constructor() { }
   public  sendFormToServer(formData: any){
-
+    // send
   }
+
 }
