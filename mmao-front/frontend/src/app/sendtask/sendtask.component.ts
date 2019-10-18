@@ -2,8 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import {FormBuilder, FormGroup, Validators} from '@angular/forms';
 
 
-
-
 @Component({
   selector: 'app-sendtask',
   templateUrl: './sendtask.component.html',
@@ -22,13 +20,14 @@ export class SendtaskComponent implements OnInit {
     });
   }
 
-  removeLink(link: string) {
-    console.log('remove (' + link + ')');
+  removeLink(i: number) {
+    console.log('remove ()');
   }
 
   addLink() {
     this.links.push('e.g. company\'s website');
   }
+
   showLinks() {
     console.log(this.links.toString());
   }
