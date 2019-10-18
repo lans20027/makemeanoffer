@@ -15,7 +15,7 @@
       <mat-list-item *ngFor="let link of links; index as i;">
         <p>{{i}}</p>
         <mat-form-field>
-          <input matInput placeholder="e.g. company's website" value="links[i]">
+          <input matInput placeholder="e.g. company's website" [(value)]="links[i]">
         </mat-form-field>
         <button mat-icon-button aria-label="add link" (click)="removeLink(link)">
           <mat-icon color="accent">clear</mat-icon>
