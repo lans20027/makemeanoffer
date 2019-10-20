@@ -1,3 +1,19 @@
-.space-filler{
-  flex: 1 1 auto;
+span{
+  margin-right: 10px;
+}
+
+span:hover{
+  cursor: pointer;
+  color: burlywood;
+}
+
+mat-icon:hover{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+mat-toolbar{
+  width: 100%;
 }

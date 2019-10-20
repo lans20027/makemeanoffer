@@ -19,6 +19,11 @@ import { SendtaskComponent } from './sendtask/sendtask.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {MatInputModule} from "@angular/material/input";
 import {MatListModule} from "@angular/material/list";
+import {SendService} from "./sendtask/send.service";
+import {MatCardModule} from "@angular/material/card";
+import { DisserComponent } from './disser/disser.component';
+import {BlockchainInfoService} from "./disser/blockchain-info.service";
+import {HttpClient, HttpClientModule} from "@angular/common/http";
 
 
 
@@ -30,7 +35,8 @@ import {MatListModule} from "@angular/material/list";
     HeaderComponent,
     PageAboutComponent,
     FooterComponent,
-    SendtaskComponent
+    SendtaskComponent,
+    DisserComponent
   ],
   imports: [
     BrowserModule,
@@ -45,9 +51,11 @@ import {MatListModule} from "@angular/material/list";
     BrowserAnimationsModule,
     MatInputModule,
     FormsModule,
-    MatListModule
+    MatListModule,
+    MatCardModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [SendService, BlockchainInfoService, HttpClient],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

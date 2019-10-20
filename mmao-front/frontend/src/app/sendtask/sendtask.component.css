@@ -1,0 +1,22 @@
+mat-form-field{
+  width: 150px;
+}
+
+input{
+  width: 150px;
+}
+
+
+.my-stepper{
+  width: 60%;
+  alignment: left;
+  position: inherit;
+}
+
+.container{
+  width: 100%;
+}
+
+mat-form-field{
+  alignment: left;
+}
