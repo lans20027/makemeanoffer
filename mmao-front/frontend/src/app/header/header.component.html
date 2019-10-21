@@ -1,9 +1,15 @@
 <mat-toolbar color="primary" style="margin: 0">
   <mat-toolbar-row>
-    <span>MMAO</span>
+    <span routerLink="/">MMAO</span>
+    <span routerLink="/about">About</span>
+    <span routerLink="/dissertation">Dissertation</span>
+
     <span class="space-filler"></span>
-    <button mat-icon-button aria-label="Example icon-button with a heart icon">
+    <button mat-icon-button aria-label="">
       <mat-icon>favorite</mat-icon>
+    </button>
+    <button mat-icon-button aria-label="Email me" routerLink="/about">
+      <mat-icon>mail</mat-icon>
     </button>
   </mat-toolbar-row>
 </mat-toolbar>

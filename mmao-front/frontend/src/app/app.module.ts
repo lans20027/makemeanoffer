@@ -11,10 +11,21 @@ import {
   MatIconModule,
   MatStepperModule,
   MatToolbarModule
-} from "@angular/material";
+} from '@angular/material';
 import { PageAboutComponent } from './page-about/page-about.component';
 import { FooterComponent } from './footer/footer.component';
-import {ReactiveFormsModule} from "@angular/forms";
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
+import { SendtaskComponent } from './sendtask/sendtask.component';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {MatInputModule} from "@angular/material/input";
+import {MatListModule} from "@angular/material/list";
+import {SendService} from "./sendtask/send.service";
+import {MatCardModule} from "@angular/material/card";
+import { DisserComponent } from './disser/disser.component';
+import {BlockchainInfoService} from "./disser/blockchain-info.service";
+import {HttpClient, HttpClientModule} from "@angular/common/http";
+
+
 
 
 
@@ -23,7 +34,9 @@ import {ReactiveFormsModule} from "@angular/forms";
     AppComponent,
     HeaderComponent,
     PageAboutComponent,
-    FooterComponent
+    FooterComponent,
+    SendtaskComponent,
+    DisserComponent
   ],
   imports: [
     BrowserModule,
@@ -34,9 +47,15 @@ import {ReactiveFormsModule} from "@angular/forms";
     MatGridListModule,
     MatStepperModule,
     ReactiveFormsModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+    BrowserAnimationsModule,
+    MatInputModule,
+    FormsModule,
+    MatListModule,
+    MatCardModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [SendService, BlockchainInfoService, HttpClient],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

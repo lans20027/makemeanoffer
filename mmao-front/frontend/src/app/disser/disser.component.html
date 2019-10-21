@@ -1,0 +1,14 @@
+<h2>My dissertation works</h2>
+<div>
+  <mat-form-field>
+    <input matInput [(ngModel)]="targetTx" type="number" placeholder="Number of blocks">
+  </mat-form-field>
+  <button mat-raised-button (click)="analyse()" class="simple-element">analyze</button>
+</div>
+<div *ngFor="let tx of txArr">
+  <p>{{tx.hash}}</p>
+  <p>{{tx.}}</p>
+</div>
+
+
+
