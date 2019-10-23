@@ -1,5 +1,6 @@
 import {Transaction} from "./transaction";
 
+// represents a blockchain block
 export class Block {
   hash: string;
   ver: number;
