@@ -24,6 +24,7 @@ import {MatCardModule} from "@angular/material/card";
 import { DisserComponent } from './disser/disser.component';
 import {BlockchainInfoService} from "./disser/blockchain-info.service";
 import {HttpClient, HttpClientModule} from "@angular/common/http";
+import { BlockDetailComponent } from './disser/block-detail/block-detail.component';
 
 
 
@@ -36,7 +37,8 @@ import {HttpClient, HttpClientModule} from "@angular/common/http";
     PageAboutComponent,
     FooterComponent,
     SendtaskComponent,
-    DisserComponent
+    DisserComponent,
+    BlockDetailComponent
   ],
   imports: [
     BrowserModule,

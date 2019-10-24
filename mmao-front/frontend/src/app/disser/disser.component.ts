@@ -11,27 +11,25 @@ import {Block} from "./block";
   providers:[BlockchainInfoService]
 })
 export class DisserComponent implements OnInit {
-  txArr: Transaction[] = [];
-  targetTx = 1;
+  blocks: Block[] = [];
 
   constructor(private blockchainInfo: BlockchainInfoService) { }
 
   ngOnInit() {
   }
 
-  analyse() {
-    this.blockchainInfo.getLastBlocks(this.targetTx).then(res => {
+  /*
+  * Method gets last block on the block chain
+  * and calculate average value of transactions in block.
+  * */
+  getLastBlock() {
+    this.blockchainInfo.getLastBlocks().then(res => {
       const resp = res as BlockInfo;
       this.blockchainInfo.getSingleBlock(resp.hash).then(ress => {
         const block = ress as Block;
-        let i = 0;
-        while(i < this.targetTx){
-          this.txArr.push(block.tx[i]);
-          console.log(JSON.stringify(block.tx[i]));
-          i++;
-        }
+        block.time = new Date(block.time);
+        this.blocks.push(block);
       });
     });
   }
-
 }

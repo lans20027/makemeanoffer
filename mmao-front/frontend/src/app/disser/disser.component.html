@@ -1,17 +1,9 @@
-<h2>My dissertation works</h2>
 <div>
-  <mat-form-field>
-    <input matInput [(ngModel)]="targetTx" type="number" placeholder="Number of blocks">
-  </mat-form-field>
-  <button mat-raised-button (click)="analyse()" class="simple-element">analyze</button>
+  <button mat-raised-button (click)="getLastBlock()" class="simple-element">analyze</button>
 </div>
-<div *ngFor="let tx of txArr" style="border: 1px solid blue;">
-  <p>{{tx.hash}}</p>
-  Inputs:
-  <p *ngFor="let input of tx.inputs; index as k;">value {{k}} = {{input.prev_out}}</p>
-  Outputs:
-  <p *ngFor="let output of tx.out; index as k;">value {{k}} = {{output.value}}</p>
-</div>
+<h3>Blocks:</h3>
+<app-block-detail *ngFor="let block of blocks" [block]="block"></app-block-detail>
+
 
 
 

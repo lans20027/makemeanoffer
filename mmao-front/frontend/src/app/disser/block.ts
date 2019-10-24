@@ -1,4 +1,4 @@
-import {Transaction} from "./transaction";
+import {Transaction} from './transaction';
 
 // represents a blockchain block
 export class Block {
@@ -6,7 +6,7 @@ export class Block {
   ver: number;
   prev_block: string;
   mrkl_root: string;
-  time: number;
+  time: any;
   bits: number;
   nonce: number;
   n_tx: number;

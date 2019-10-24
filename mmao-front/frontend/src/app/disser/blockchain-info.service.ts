@@ -23,7 +23,7 @@ export class BlockchainInfoService {
   constructor(private httpClient: HttpClient) { }
 
 
-  getLastBlocks(count: number) {
+  getLastBlocks() {
     return this.httpClient.get(this.lastestBlockUrl + '?cors=true').toPromise();
   }
 
