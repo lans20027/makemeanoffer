@@ -35,4 +35,5 @@ export class BlockchainInfoService {
     return this.httpClient.get(this.singleBlockUrl + `${blockhash}` + '?cors=true').toPromise();
   }
 
+
 }

@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {BlockchainInfoService, BlockInfo} from './blockchain-info.service';
-import {Transaction} from './transaction';
-import {Block} from "./block";
+import {Block} from './block';
 
 
 @Component({
@@ -16,11 +15,11 @@ export class DisserComponent implements OnInit {
   constructor(private blockchainInfo: BlockchainInfoService) { }
 
   ngOnInit() {
+    this.getLastBlock();
   }
 
   /*
   * Method gets last block on the block chain
-  * and calculate average value of transactions in block.
   * */
   getLastBlock() {
     this.blockchainInfo.getLastBlocks().then(res => {
@@ -32,4 +31,9 @@ export class DisserComponent implements OnInit {
       });
     });
   }
+
+  getLastNBlocks(numberOfBlocks: number) {
+
+  }
+
 }

@@ -1,5 +1,8 @@
 <div>
-  <button mat-raised-button (click)="getLastBlock()" class="simple-element">analyze</button>
+  <mat-form-field>
+    <input matInput placeholder="Amount of blocks" type="number" min="1" value="1">
+  </mat-form-field>
+  <button mat-raised-button class="simple-element" color="primary">Upload next</button>
 </div>
 <h3>Blocks:</h3>
 <app-block-detail *ngFor="let block of blocks" [block]="block"></app-block-detail>
