@@ -1,5 +1,11 @@
 import { Component, OnInit } from '@angular/core';
-import {FormBuilder, FormGroup, Validators} from "@angular/forms";
+import {FormBuilder, FormGroup, Validators} from '@angular/forms';
+
+
+class MiniDescription {
+  src: string;
+  description: string;
+}
 
 @Component({
   selector: 'app-page-about',
@@ -12,15 +18,16 @@ export class PageAboutComponent implements OnInit {
   firstFormGroup: FormGroup;
   secondFormGroup: FormGroup;
 
+  miniDescr: MiniDescription[] = [{src: '../../assets/images/Tomcat.png', description: 'tomcat'},
+                                  {src: '../../assets/images/Hibernate.png', description: 'hibernate'},
+                                  {src: '../../assets/images/Wildfly.png', description: 'wildfly'},
+                                  {src: '../../assets/images/Oracle.png', description: 'oracle'},
+                                  {src: '../../assets/images/Maven.png', description: 'maven'},
+                                  {src: '../../assets/images/javaee.png', description: 'javaee'}];
+
   constructor(private _formBuilder: FormBuilder) {}
 
   ngOnInit() {
-    this.firstFormGroup = this._formBuilder.group({
-      firstCtrl: ['', Validators.required]
-    });
-    this.secondFormGroup = this._formBuilder.group({
-      secondCtrl: ['', Validators.required]
-    });
   }
 
 }

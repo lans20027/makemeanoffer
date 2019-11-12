@@ -15,12 +15,15 @@
 </section>
 <section>
   <div class="container-fluid bg-light">
-    <h3 class="section-header big-text">My expirience</h3>
+    <h3 class="section-header big-text">I am familiar with</h3>
+    <div class="container">
+      <app-mini-description *ngFor="let item of miniDescr" [description]="item.description" [src]="item.src"></app-mini-description>
+    </div>
   </div>
 </section>
 <section>
   <div class="container-fluid bg-light">
-    <h3 class="section-header big-text">Did i interest you?</h3>
+    <h3 class="section-header big-text">Contacts</h3>
   </div>
 </section>
 </div>

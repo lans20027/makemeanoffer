@@ -25,6 +25,7 @@ import { DisserComponent } from './disser/disser.component';
 import {BlockchainInfoService} from "./disser/blockchain-info.service";
 import {HttpClient, HttpClientModule} from "@angular/common/http";
 import { BlockDetailComponent } from './disser/block-detail/block-detail.component';
+import { MiniDescriptionComponent } from './page-about/mini-description/mini-description.component';
 
 
 
@@ -38,7 +39,8 @@ import { BlockDetailComponent } from './disser/block-detail/block-detail.compone
     FooterComponent,
     SendtaskComponent,
     DisserComponent,
-    BlockDetailComponent
+    BlockDetailComponent,
+    MiniDescriptionComponent
   ],
   imports: [
     BrowserModule,

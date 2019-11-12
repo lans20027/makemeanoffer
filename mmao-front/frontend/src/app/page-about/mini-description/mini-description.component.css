@@ -1,0 +1,21 @@
+img:hover{
+  cursor: pointer;
+}
+
+#id:hover .hidden-description{
+  opacity: 0.8;
+}
+
+
+.hidden-description{
+  background: #ccc;
+}
+
+img{
+  width: 200px;
+  height: auto;
+}
+
+div{
+  display: inline-block;
+}

@@ -7,7 +7,8 @@ export const environment = {
   bcApiUrl: 'https://blockchain.info/',
   bcLatest: 'latestblock',
   bcSingleBlock: 'rawblock/',
-  bcSingleTx: 'rawtx/'
+  bcSingleTx: 'rawtx/',
+  bcForOneDay: 'blocks/'
 };
 
 /*

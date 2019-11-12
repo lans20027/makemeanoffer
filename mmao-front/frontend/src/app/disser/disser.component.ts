@@ -3,6 +3,7 @@ import {BlockchainInfoService, BlockInfo} from './blockchain-info.service';
 import {Block} from './block';
 
 
+
 @Component({
   selector: 'app-disser',
   templateUrl: './disser.component.html',
@@ -11,11 +12,14 @@ import {Block} from './block';
 })
 export class DisserComponent implements OnInit {
   blocks: Block[] = [];
+  i = 0;
+
 
   constructor(private blockchainInfo: BlockchainInfoService) { }
 
   ngOnInit() {
-    this.getLastBlock();
+    // this.getLastBlock();
+    this.getBlocksByToday();
   }
 
   /*
@@ -26,14 +30,58 @@ export class DisserComponent implements OnInit {
       const resp = res as BlockInfo;
       this.blockchainInfo.getSingleBlock(resp.hash).then(ress => {
         const block = ress as Block;
-        block.time = new Date(block.time);
         this.blocks.push(block);
+        this.calculateAverageTx(block);
+        this.getBlocks(block, 20);
       });
     });
   }
 
-  getLastNBlocks(numberOfBlocks: number) {
-
+  getBlocks(initialBlock: Block, count: number) {
+    if (this.i < count) {
+      this.blockchainInfo.getSingleBlock(this.blocks[this.i].prev_block).then(res => {
+        this.blocks.push(res as Block);
+        this.i++;
+        this.getBlocks(this.blocks[this.i], 20);
+      });
+    }
   }
+
+
+  getBlocksByToday() {
+    const today = new Date();
+    console.log(today.getTime());
+    this.blockchainInfo.getBlocksByTime(today.getTime()).then(res => {
+        this.blocks = res.blocks as Block[];
+        let i = 0;
+        const len = this.blocks.length;
+      }
+    );
+  }
+
+
+
+
+  calculateAverageTx(block: Block) {
+    let inputs = 0.0;
+    let inputCount = 0;
+    block.tx.forEach(value => {
+      let tempInputs = 0.0;
+      value.inputs.forEach(input => {
+        if (input.prev_out !== undefined) {
+          tempInputs += Number(input.prev_out.value) / 100000000.0;
+        }
+      });
+      inputCount ++;
+      inputs += tempInputs;
+    });
+    console.log(inputs);
+    console.log(inputCount);
+    console.log(inputs / inputCount);
+  }
+
+
+
+
 
 }

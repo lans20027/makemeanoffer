@@ -19,9 +19,13 @@ export class BlockchainInfoService {
   lastestBlockUrl = this.bcApiUrl + environment.bcLatest;
   singleTxUrl = this.bcApiUrl + environment.bcSingleTx;
   singleBlockUrl = this.bcApiUrl + environment.bcSingleBlock;
+  oneDayBlocks = this.bcApiUrl + environment.bcForOneDay;
 
   constructor(private httpClient: HttpClient) { }
 
+  getBlocksByTime(time: any): Promise<any> {
+    return this.httpClient.get('https://blockchain.info/blocks/' + `${time}` + '?format=json&cors=true').toPromise();
+  }
 
   getLastBlocks() {
     return this.httpClient.get(this.lastestBlockUrl + '?cors=true').toPromise();

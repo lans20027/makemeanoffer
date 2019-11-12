@@ -8,5 +8,4 @@ public class MmaoBackApplication {
     public static void main(String[] args) {
         SpringApplication.run(MmaoBackApplication.class, args);
     }
-
 }
