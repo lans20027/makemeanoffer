@@ -1,0 +1,11 @@
+.app-container{
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
+
+
+.flex-start{
+  align-self: flex-start;
+}

@@ -9,4 +9,9 @@
 
 .bg-fill{
   background: azure;
+  margin: 0;
+}
+
+.hidden-meme{
+ display: none;
 }

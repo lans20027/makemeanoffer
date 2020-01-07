@@ -1,7 +1,7 @@
 <div class="bg-fill">
-<section>
-  <div class="container-fluid bg-light">
-    <h3 class="section-header big-text">Welcome!</h3>
+  <!--  welcome -->
+  <div class="container-fluid">
+    <h4 class="section-header big-text">Welcome!</h4>
     <div class="col-sm-6 offset-3 text-center">
         <p>M - make</p>
         <p>M - me</p>
@@ -9,21 +9,51 @@
         <p>O - offer</p>
         <p><i style="text-decoration: line-through">This is how we do</i></p>
         <p>This is how i am looking for a new job.
-          I made this resource to interest potential employers. Below presented some information about me</p>
+          I made this resource to interest potential employers. Below presented some information about me.</p>
     </div>
   </div>
-</section>
-<section>
-  <div class="container-fluid bg-light">
-    <h3 class="section-header big-text">I am familiar with</h3>
+  <!--  about me -->
+  <div class="container-fluid">
+    <h4 class="section-header">About me</h4>
     <div class="container">
-      <app-mini-description *ngFor="let item of miniDescr" [description]="item.description" [src]="item.src"></app-mini-description>
+      <p>{{about}}. <a target="_blank" rel="noopener noreferrer" href="{{'https://translate.google.com/?hl=ru&tab=TT0#view=home&op=translate&sl=it&tl=ru&text=' + about }}"> decoding </a>
+      </p>
+      <div>
+        <mat-label for="progress">{{'My level ' + level + ' progress:'}}</mat-label>
+        <mat-progress-spinner value="{{levelProgress * 100}}" id="progress"></mat-progress-spinner>
+        <mat-label>{{'~' + levelProgress*100 + '%'}}</mat-label>
+      </div>
+      <div>
+        <button mat-button (click)="hiddenMeme = !hiddenMeme">my localhost meme</button>
+        <img src="https://sun9-30.userapi.com/c204524/v204524952/2e1f4/a0uJGdkkZu8.jpg" [ngClass]="{'hidden-meme' : hiddenMeme}">
+      </div>
     </div>
   </div>
-</section>
-<section>
-  <div class="container-fluid bg-light">
-    <h3 class="section-header big-text">Contacts</h3>
+
+  <!--  experience -->
+  <div class="container-fluid">
+    <h4 class="section-header">My experience</h4>
+    <div class="container">
+      <h6>My previous work experience:</h6>
+      <p>Since june 2019 i was software engineer (of I category lol).
+        I was responsible for several applications and something else:</p>
+      <ul>
+        <li>
+          <p> Application maintenance: </p>
+          <p> <a href="https://github.com/TFOMSNSO/ErzNsk">java ee</a>(servlets + jsp + tomcat)</p>
+          <p> <a href="https://github.com/TFOMSNSO/CarefulClinic">java + angular</a>(rest api + wildfly + hibernate)</p>
+        </li>
+        <li>
+          <p> Application development: </p>
+          <p> <a href="https://lk.novofoms.ru"> spring boot + web mvc</a>
+            (oauth 2.0 access to site with <a href="https://gosuslugi.ru">gosuslugi.ru</a> account)</p>
+          <p> <a href="https://github.com/TFOMSNSO/Snilsing">java fx</a> local app</p>
+        </li>
+        <li>
+          <p>Site maintenance: posting content, changing some pages</p>
+        </li>
+      </ul>
+    </div>
   </div>
-</section>
+
 </div>

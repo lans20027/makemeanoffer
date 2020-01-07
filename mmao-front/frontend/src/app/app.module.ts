@@ -26,9 +26,7 @@ import {BlockchainInfoService} from "./disser/blockchain-info.service";
 import {HttpClient, HttpClientModule} from "@angular/common/http";
 import { BlockDetailComponent } from './disser/block-detail/block-detail.component';
 import { MiniDescriptionComponent } from './page-about/mini-description/mini-description.component';
-
-
-
+import {MatProgressSpinnerModule} from "@angular/material";
 
 
 @NgModule({
@@ -57,7 +55,8 @@ import { MiniDescriptionComponent } from './page-about/mini-description/mini-des
     FormsModule,
     MatListModule,
     MatCardModule,
-    HttpClientModule
+    HttpClientModule,
+    MatProgressSpinnerModule
   ],
   providers: [SendService, BlockchainInfoService, HttpClient],
   bootstrap: [AppComponent]
